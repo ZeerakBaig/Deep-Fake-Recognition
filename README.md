@@ -11,5 +11,5 @@ Our second approach is a variation of our initial pipeline, where an Efficient n
 
  ## Research Paper
  
- Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Neurove/blob/main/Research_Paper/Facial_Paralysis_Recognition.pdf)
+ Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Deep-Fake-Recognition/blob/main/ResearchPaper/ZeerakBaig_DeepFakeRecognition_VIT_2022.pdf)
 
