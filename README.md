@@ -4,3 +4,12 @@ The goal of this study is to identify deep fake images using a variety of facial
 
 Our second approach is a variation of our initial pipeline, where an Efficient net B07 architecture is used as a classifier instead of the vision transformer for a comparative study.
 
+[![AGPL License](https://img.shields.io/badge/Python-13.0-brightgreen)](http://www.gnu.org/licenses/agpl-3.0/)
+![SkLearn](https://img.shields.io/badge/scikit-learn-red)
+![SkLearn](https://img.shields.io/badge/tensorflow-2.9-brightgreen)
+![SkLearn](https://img.shields.io/badge/Keras-2.10-green)
+
+ ## Research Paper
+ 
+ Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Neurove/blob/main/Research_Paper/Facial_Paralysis_Recognition.pdf)
+
